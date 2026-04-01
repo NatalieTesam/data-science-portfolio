@@ -1,89 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Natalie Tesam's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Natalie Tesam
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:nataliekay1023@gmail.com">nataliekay1023@gmail.com</a>
+| <a href="https://www.linkedin.com/in/ntesam/">linkedin.com/in/ntesam</a>
+| <a href="https://github.com/NatalieTesam"> github.com/NatalieTesam</a>
 </div>
 
+## Summary 
 
-## Currently
+Senior Computer Science Student at Brigham Young University - Idaho | Passion for Software Engineering, OOP, Web Design and Development, Game Development, and Learning Programming Languages.
 
-Standing on the shoulders of giants
+## Projects
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Event Rex (Web Design, HTML/CSS, Teamwork)
+  - https://github.com/NatalieTesam/EventRex-BYUI-Hackathon-2021
+- Study Buddy (React, Typescript, Adaptability)
+  - https://github.com/NatalieTesam/StudyBuddy-Hackathon-2024
+- Duo Jam (JavaScript, Snapchat)
+  - https://github.com/NatalieTesam/DuoJam 
+- Career Architect (JavaScript, HTML, CSS)
+  - https://github.com/NatalieTesam/Career-Architect
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Bachelor of Science - Computer Science
+#### Brigham Young University - Idaho | August 2021 - December 2026
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Programming Languages & Technologies: Python, C#, Erlang, JavaScript, HTML/CSS, MySQL, Java, C, C++, Vue, React, Godot
+- Coursework & Skills: Data Structures, Algorithms, Parallelism, Concurrency, Processes, Web Development, Database Design, Software Engineering, Technical Teamwork, Design Thinking
 
-- Sizar
+##### School Related Projects
+- Sleep Outside (Teamwork, JavaScript, Debugging, Mentoring)
+- Page Mate (HTML/CSS, JavaScript, API)
+  - https://github.com/NatalieTesam/PageMate
+- Fridge Tracker (C, C++)
+- Slime Escape (C#, Godot, Coordinating, Organizing)
+- Crochet Modeler (Python, OOP, Reporting)
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+### Part Time Junior Vue Developer
+#### Inventory Shield | May 2024 - Present
 
+- Developed & maintained the Inventory Shield application in a team of 5 developers through refactoring, testing, and correcting errors, code reviews, standup meetings, resolving merge conflicts
+- Refactored and updated front-end features using Vue.js, TypeScript, HTML, and CSS, transitioning from Vue2 to Vue3
 
+## Skills
 
-## Awards
+- Software Development
+- Object Oriented Programming (OOP)
+- Teamwork
+- Algorithms
+- Adaptability
+- Time Management
+- Python
+- HTML | CSS
+- JavaScript | TypeScript
+- Vue | React
+- C | C++ | C#
 
-`2012`
-President, *Royal Society*, London, UK
+## Personal Interests
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
+- Gardening and Crochet
+- Volunteer Work
+- Reading
+- Game Design
+- Designing Interactive Tools
+- Creating Educational Software
+- Entrepreneurship
 <!-- ### Footer
 
 Last updated: May 2013 -->
